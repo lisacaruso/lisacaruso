@@ -19,8 +19,8 @@ social:
     url: https://www.instagram.com/lisacaruso/
 
 # General settings
-# url: http://brianmaierjr.github.com/uni
-# baseurl: "/uni" 
+url: http://satoshua.github.com/lisacaruso
+baseurl: "/lisacaruso" 
 markdown: kramdown
 sharing_image: full-lg.jpg
 google_analytics: "" # google analytics tracking
