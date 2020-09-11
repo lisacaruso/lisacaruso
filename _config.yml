@@ -19,8 +19,8 @@ social:
     url: https://www.instagram.com/lisacaruso/
 
 # General settings
-url: https://satoshua.github.com/lisacaruso/
-baseurl: "/lisacaruso" 
+https://dyor.lol
+baseurl: "/" 
 markdown: kramdown
 sharing_image: full-lg.jpg
 google_analytics: "" # google analytics tracking
