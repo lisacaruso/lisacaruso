@@ -20,7 +20,7 @@ social:
 
 # General settings
 url: http://satoshua.github.com/lisacaruso
-baseurl: "/lisacaruso" 
+#baseurl: "/lisacaruso/" 
 markdown: kramdown
 sharing_image: full-lg.jpg
 google_analytics: "" # google analytics tracking
