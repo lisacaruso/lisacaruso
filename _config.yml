@@ -1,29 +1,29 @@
 # Your Name or Company
-title: Uni Kravitz
+title: Lisa Caruso
 
 # Description of your website. This is used for social sharing.
-description:  The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
+description:  Debut album In Feelings out now.
 
 # A brief blurb about yourself
-content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.
+content: Debut album In Feelings out now.
 
 # Add your social links
 social:
-  - platform: github
-    url: https://github.com/brianmaierjr
+  - platform: spotify
+    url: https://open.spotify.com/artist/36HJno2GZYrC3jPO8ACz6T
+  - platform: youtube
+    url: https://www.youtube.com/channel/UC_YSOFnJyYBLLai-Ni3BckA
   - platform: facebook
-    url: https://facebook.com/brianmaierjr
-  - platform: twitter
-    url: https://twitter.com/brianmaierjr
-  - platform: linkedin
-    url: brianmaierjr
+    url: https://www.facebook.com/lisacarusomusic
+  - platform: instagram
+    url: https://www.instagram.com/lisacaruso/
 
 # General settings
 # url: http://brianmaierjr.github.com/uni
 # baseurl: "/uni" 
 markdown: kramdown
-sharing_image: share.jpg
-google_analytics: "UA-58263416-1" # google analytics tracking
+sharing_image: full-lg.jpg
+google_analytics: "" # google analytics tracking
 
 #### LAYOUT OPTIONS #####
 
@@ -31,4 +31,4 @@ google_analytics: "UA-58263416-1" # google analytics tracking
 half_side: right
 
 # Full layout
-full_text_position: right # left, right or center
+full_text_position: center # left, right or center
