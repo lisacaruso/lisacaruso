@@ -11,6 +11,8 @@ content:
 social:
   - platform: Spotify
     url: https://open.spotify.com/artist/36HJno2GZYrC3jPO8ACz6T
+  - platform: Apple Music
+    url: https://music.apple.com/au/artist/lisa-caruso/924280947
   - platform: Bandcamp
     url: https://lisacarusomusic.bandcamp.com/
   - platform: YouTube
