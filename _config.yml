@@ -2,10 +2,10 @@
 title: Lisa Caruso
 
 # Description of your website. This is used for social sharing.
-description:  Debut album In Feelings out now.
+description:
 
 # A brief blurb about yourself
-content: Debut album In Feelings out now.
+content:
 
 # Add your social links
 social:
@@ -13,14 +13,12 @@ social:
     url: https://open.spotify.com/artist/36HJno2GZYrC3jPO8ACz6T
   - platform: youtube
     url: https://www.youtube.com/channel/UC_YSOFnJyYBLLai-Ni3BckA
-  - platform: facebook
-    url: https://www.facebook.com/lisacarusomusic
   - platform: instagram
     url: https://www.instagram.com/lisacaruso/
 
 # General settings
 url: https://dyor.lol
-baseurl: "/" 
+baseurl: "" 
 markdown: kramdown
 sharing_image: full-lg.jpg
 google_analytics: "" # google analytics tracking

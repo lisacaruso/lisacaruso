@@ -1,7 +1,7 @@
 /***************
 COLOR VARIABLES
 ***************/
-$primary-color: purple;
+$primary-color: #E45349;
 $link-color: $primary-color;
 
 /***************
@@ -13,8 +13,8 @@ $line-height: 44px; // Consistent height for buttons, inputs etc.
 /***************
 TYPE SETTINGS
 ***************/
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,300i,700,700i");
-$sans-serif: "Open Sans", Helvetica, Arial, sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Basic&display=swap');
+$sans-serif: 'Gentium Book Basic', serif;
 
 /***************
 SIZES
@@ -25,4 +25,4 @@ $browser-context: 16; // Default
 /***************
 RESPONSIVE BREAKPOINTS
 ***************/
-$breakpoints: (md: 768px);
+$breakpoints: (md: 360px);
