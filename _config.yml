@@ -1,5 +1,5 @@
 # Your Name or Company
-title: LISA CARUSO
+title: LISA <br>CARUSO
 
 # Description of your website. This is used for social sharing.
 description:
@@ -9,12 +9,8 @@ content:
 
 # Add your social links
 social:
-  - platform: spotify
+  - platform: Listen on Spotify
     url: https://open.spotify.com/artist/36HJno2GZYrC3jPO8ACz6T
-  - platform: youtube
-    url: https://www.youtube.com/channel/UC_YSOFnJyYBLLai-Ni3BckA
-  - platform: instagram
-    url: https://www.instagram.com/lisacaruso/
 
 # General settings
 url: https://dyor.lol
