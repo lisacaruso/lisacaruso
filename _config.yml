@@ -21,6 +21,8 @@ social:
     url: https://www.facebook.com/lisacarusomusic/
   - platform: Instagram
     url: https://www.instagram.com/lisacaruso/
+  - platform: Email
+    url: mailto:lisacarusomusic@gmail.com
 
 # General settings
 url: https://lisacaruso.com.au
